@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\КПиЯП практика\25\4-Z\bin\Debug\4-Z.exe.config
+C:\Users\Admin\Desktop\КПиЯП практика\25\4-Z\bin\Debug\4-Z.exe
+C:\Users\Admin\Desktop\КПиЯП практика\25\4-Z\bin\Debug\4-Z.pdb
+C:\Users\Admin\Desktop\КПиЯП практика\25\4-Z\obj\Debug\4-Z.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\КПиЯП практика\25\4-Z\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\КПиЯП практика\25\4-Z\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\КПиЯП практика\25\4-Z\obj\Debug\4-Z_MarkupCompile.cache
+C:\Users\Admin\Desktop\КПиЯП практика\25\4-Z\obj\Debug\4-Z_MarkupCompile.lref
+C:\Users\Admin\Desktop\КПиЯП практика\25\4-Z\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\КПиЯП практика\25\4-Z\obj\Debug\4-Z.g.resources
+C:\Users\Admin\Desktop\КПиЯП практика\25\4-Z\obj\Debug\_4_Z.Properties.Resources.resources
+C:\Users\Admin\Desktop\КПиЯП практика\25\4-Z\obj\Debug\4-Z.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\КПиЯП практика\25\4-Z\obj\Debug\4-Z.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\КПиЯП практика\25\4-Z\obj\Debug\4-Z.exe
+C:\Users\Admin\Desktop\КПиЯП практика\25\4-Z\obj\Debug\4-Z.pdb

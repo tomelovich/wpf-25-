@@ -1,0 +1,3 @@
+C:\Users\Admin\Desktop\КПиЯП практика\25\3-Z\obj\Debug\3-Z.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\КПиЯП практика\25\3-Z\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\КПиЯП практика\25\3-Z\obj\Debug\3-Z_MarkupCompile.cache
